@@ -18,4 +18,14 @@ These are the instructions to get your client ready to join the Mod Flash SMP, t
 
 **Linux**
 
-2.) 
+2.) Find the file in your downloads folder
+
+3.) Right click in the directory and click open in terminal
+
+4.) Run 
+~~~
+java -jar forge-1.20.1-[Forge Version]-installer.jar
+~~~
+in your terminal tab you just opened
+
+5.) Follow Windows instructions from 3.) downward
