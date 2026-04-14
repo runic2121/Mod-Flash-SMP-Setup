@@ -2,7 +2,7 @@
 
 These are the instructions to get your client ready to join the Mod Flash SMP, the official name of the Minecraft server that will be used by the Eternal Order and friends of the creators (and any other person the EO decides to invite) of the Minecraft server. If you do not belong to the EO, or are not invited to join the server, you will not be allowed to join.
 
-1.) Download the forge-installer-1.20.1-[Forge Version] file and the Modpack-wave1.zip file from this repository.
+1.) Download the forge-1.20.1-47.4.20-installer file and the Modpack-wave1.zip file from this repository.
 
 **Windows**
 
@@ -24,7 +24,7 @@ These are the instructions to get your client ready to join the Mod Flash SMP, t
 
 4.) Run 
 ~~~
-java -jar forge-1.20.1-[Forge Version]-installer.jar
+java -jar forge-1.20.1-47.4.20-installer.jar
 ~~~
 in your terminal tab you just opened
 
