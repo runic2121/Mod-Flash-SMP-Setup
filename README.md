@@ -28,4 +28,8 @@ java -jar forge-1.20.1-[Forge Version]-installer.jar
 ~~~
 in your terminal tab you just opened
 
-5.) Follow Windows instructions from 3.) downward
+5.) Choose "install client" and run the program
+
+6.) Right-click and extract the Modpack-wave1.zip file _**into your mods folder**_ that will be found in the [Insert Directory Here]
+
+7.) Follow Windows instructions from 5.) onwards.
