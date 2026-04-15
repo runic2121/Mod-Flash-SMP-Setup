@@ -2,7 +2,7 @@
 
 These are the instructions to get your client ready to join the Mod Flash SMP, the official name of the Minecraft server that will be used by the Eternal Order and friends of the creators (and any other person the EO decides to invite) of the Minecraft server. If you do not belong to the EO, or are not invited to join the server, you will not be allowed to join.
 
-1.) Download the forge-1.20.1-47.4.20-installer file and the Modpack-wave1.zip file from this repository.
+1.) Download the forge-1.20.1-47.4.20-installer file and the Mods-LaunchWave file from this repository.
 
 **Windows**
 
@@ -10,7 +10,7 @@ These are the instructions to get your client ready to join the Mod Flash SMP, t
 
 3.) Choose "install client" and run the program
 
-4.) Right-click and extract the Modpack-wave1.zip file _**into your mods folder**_ that will be found in the C:\Users\username\AppData\Roaming\.minecraft\mods directory on your computerxetracting
+4.) Open the Mods-LaunchWave file and move the contents _**into your mods folder**_ that will be found in the C:\Users\username\AppData\Roaming\.minecraft\mods directory on your computer
 
 5.) Open your Minecraft Launcher after the mods finish extracting, and click on the installations button to the left of the big green play button on Minecraft Java edition
 
@@ -30,6 +30,6 @@ in your terminal tab you just opened
 
 5.) Choose "install client" and run the program
 
-6.) Right-click and extract the Modpack-wave1.zip file _**into your mods folder**_ that will be found in the [Insert Directory Here]
+6.) Open the Mods-LaunchWave file and move the contents _**into your mods folder**_ that will be found in the [Insert Directory Here]
 
 7.) Follow Windows instructions from 5.) onwards.
